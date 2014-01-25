@@ -20,27 +20,29 @@ periode duurt 9 weken? (controleren)
 ### Eisen
 
 #### Thema 1
-- Werkend, met posts, CSS, men met list pages
+- Werkend, met posts, CSS, menu met behulp van list_pages of list_categories
 - Bonus: sidebar, configureerbaar menu, gebruik plugins
 
 #### Thema 2
 - Alles van thema 1 plus:
 	- Configureerbaar menu
-	- Moet ook echt te installeren zijn op andere site
-	- Goed gebruik informatie in style.css
+	- Moet ook echt te installeren zijn op een andere WordPress site
+	- Goed gebruik informatie over thema in style.css
 	
 #### Thema 3
 - Alles van 2 plus:
-	- gebruik van semantische tags
-	- gebruik van plugin
+	- gebruik van semantische HTML5 tags
+	- gebruik van minimaal een plugin
 	- laden css vanuit functions.php
 - Extra aandacht vormgeving, bruikbaarheid
-
-Als studenten elkaar aantoonbaar en op een goede manier helpen krijgen beide studenten maximaal 10pt bonus.
 
 ### Score
 - Thema 1: 25pt
 - Thema 2: 35pt
 - Thema 3: 40pt
+
+### Bonus
+- Goed gebruik van GitHub (10pt)
+- Als studenten elkaar aantoonbaar! En op een goede manier helpen krijgen beide studenten maximaal 10pt bonus.
 
 Iedere student heeft het recht om een van de themas te herkansen, mits alle themas op tijd worden ingeleverd.
