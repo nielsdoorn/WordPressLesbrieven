@@ -45,4 +45,4 @@ periode duurt 9 weken? (controleren)
 - Goed gebruik van GitHub (10pt)
 - Als studenten elkaar aantoonbaar! En op een goede manier helpen krijgen beide studenten maximaal 10pt bonus.
 
-Iedere student heeft het recht om een van de themas te herkansen, mits alle themas op tijd worden ingeleverd.
+Iedere student heeft het recht om een van de themas te herkansen, mits alle themas op tijd zijn ingeleverd.

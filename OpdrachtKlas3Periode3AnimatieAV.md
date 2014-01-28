@@ -5,11 +5,11 @@
 ### Opdracht
 
 #### Statische Website
-* Maak goedwerkende, statische website die je kunt gebruiken als portfolio site.
-* Zorg dat de site goed werkt op een webserver (XAMPP o.i.d.)
+* Maak een goedwerkende, statische website die je kunt gebruiken als portfolio site.
+* Zorg dat de site goed werkt op een lokale webserver (XAMPP o.i.d.)
 
 #### Ombouwen naar WordPress
-* Bouw de website stap voor stap om naar een WordPress Thema
+* Bouw de statische website stap voor stap om naar een WordPress Thema
 
 ### Score
 - Statische website (30pt)
@@ -23,4 +23,4 @@
 	- sidebar (10pt)
 - Bonus: configureerbaar menu (10pt)
  
-Iedere student heeft het recht op een tweede poging (herkansing) mits het thema op tijd wordt ingeleverd.
+Iedere student heeft het recht op een tweede poging (herkansing) mits het thema op tijd is ingeleverd.
