@@ -1,0 +1,101 @@
+/*
+Theme Name: Simple theme om themes te leren maken
+Theme URI: http://nielsdoorn.nl/
+Description: Beste theme ever.
+Version: 0.1
+Author:Niels Doorn
+Tags: awesome, cool, theBest
+
+Een vrij eenvoudige theme
+
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Gabriela);
+
+html, body {
+	min-height: 100%;
+}
+
+body {
+	font-family: 'Gabriela', serif;
+	background: linear-gradient(45deg, #f06, yellow);
+}
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+	background-color: rgba(255, 255, 255, 0.4);
+}
+
+h1 {
+	text-align: center;
+	letter-spacing: 0.5em;
+	font-variant: small-caps;
+}
+
+#nav {
+	height: 20px;
+	background-color: rgba(255, 255, 255, 0.5);
+	text-align: center;
+	height: 30px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#nav li {
+	display: inline-block;
+	width: 120px;
+	height: 30px;
+	line-height: 30px;
+	transition: 1.2s;
+}
+
+#nav li:hover {
+	background-color: grey;
+}
+
+a {
+	text-decoration: none;
+	color: purple;
+	transition: 0.5s;
+}
+
+#nav li:hover a {
+	color: lightblue;
+}
+
+#wrapper {
+	display: table;
+	height: 400px;
+}
+
+#content {
+	display: table-cell;
+	width: 500px;
+	height: 400px;
+	padding: 1em;
+}
+
+#sidebar {
+	display: table-cell;
+	width: 300px;
+	padding: 1em;
+}
+
+.widget {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 0.3em;
+	margin-bottom: 20px;
+}
+
+h2 {
+	text-align: center;
+}
+
+.post h2 {
+	text-align: left;
+}
