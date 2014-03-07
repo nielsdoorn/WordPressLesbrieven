@@ -13,9 +13,9 @@ Maak 3 themas
 periode duurt 9 weken? (controleren)
 
 ### Inleverschema
-- Eerste thema af in week 4
-- Tweede thema af in week 7
-- Derde thema af in week 9
+- Eerste thema af in week 4 (7 maart)
+- Tweede thema af in week 7 (28 maart)
+- Derde thema af in week 9 (4 april)
 
 ### Eisen
 
