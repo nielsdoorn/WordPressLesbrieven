@@ -22,5 +22,8 @@
 	- paginas worden goed getoond (10pt)
 	- sidebar (10pt)
 - Bonus: configureerbaar menu (10pt)
+
+### Inleverschema
+- Thema af in week 9 (4 april)
  
 Iedere student heeft het recht op een tweede poging (herkansing) mits het thema op tijd is ingeleverd.
