@@ -10,11 +10,14 @@
 	<div id="container">
 	  <h1><?php bloginfo('name'); ?></h1>
 		<header id="nav">
+			
 			<?php
 			$opties = array( 
 				'container_class' => 'menu', 
 				'theme_location' => 'hoofdmenu' 
 			);
+			
 			wp_nav_menu( $opties ); 
 			?>
+		
 		</header>
