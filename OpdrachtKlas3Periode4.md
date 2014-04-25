@@ -57,7 +57,7 @@ De producten die je op moet leveren zijn:
 * Functioneel ontwerp: 15pt
 * Wireframe, schetsen: 15pt
 * Mockup: 15pt
-* WordPress theme: 30pt
+* WordPress theme (AV studenten mogen een bestaand thema aanpassen, interactief studenten moeten zelf een thema maken): 30pt
 * Werkende site: 15pt
 * Evaluatie: 10pt
 
