@@ -14,15 +14,18 @@ Dit schrijf je op en noem je je functionele ontwerp. Hierin staat beschreven wat
 
 In een functioneel ontwerp vertel je **niet** hoe je iets wilt gaan doen, maar **wat** je gaat maken.
 
-### Fout voorbeeld
+### Fout voorbeeld van functionele eisen
 - De site wordt gemaakt met WordPress, de gebruiker kan via een inlogscherm zich aanmelden en nieuwe pagina's aanmaken.
 - Door CSS3 transitions te gebruiken zijn alle overgangen vloeiend.
 - Middels een Google maps iframe kan de bezoeker zien waar het bedrjf zich heeft gevestigd.
 
-### Goed voorbeeld
+### Goed voorbeeld van functionele eisen
 - De site richt zich op jongeren die informatie moeten kunnen vinden over vakanties in Spanje.
 - De bezoeker van de website kan op een eenvoudige manier contact opnemen met het bedrijf.
 - Op een afgeschermd gedeelte kan de opdrachtgever zelf de inhoud van de website aanpassen.
+
+### Manieren om functionele ontwerpen te maken
+Naast een inleiding en een globale planning bevat een functioneel ontwerp vooral een beschrijving van wat een klant gaat krijgen. Een van de manieren om dat te beschrijven is door middel van User Stories.
 
 ## Op te leveren producten
 De producten die je op moet leveren zijn:
