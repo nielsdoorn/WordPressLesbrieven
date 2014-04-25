@@ -49,16 +49,14 @@ De producten die je op moet leveren zijn:
 * Functioneel ontwerp
 * Wireframes/schetsen, mag analoog of digitaal
 * Mockup
-* Statische website
 * WordPress theme
 * Werkende WordPress site met inhoud
 * Evaluatie
 
 ## Beoordeling
 * Functioneel ontwerp: 15pt
-* Wireframe, schetsen: 10pt
-* Mockup: 10pt
-* Statische HTML: 10pt
+* Wireframe, schetsen: 15pt
+* Mockup: 15pt
 * WordPress theme: 30pt
 * Werkende site: 15pt
 * Evaluatie: 10pt
