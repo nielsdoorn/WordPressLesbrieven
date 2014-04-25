@@ -25,7 +25,24 @@ In een functioneel ontwerp vertel je **niet** hoe je iets wilt gaan doen, maar *
 - Op een afgeschermd gedeelte kan de opdrachtgever zelf de inhoud van de website aanpassen.
 
 ### Manieren om functionele ontwerpen te maken
-Naast een inleiding en een globale planning bevat een functioneel ontwerp vooral een beschrijving van wat een klant gaat krijgen. Een van de manieren om dat te beschrijven is door middel van User Stories.
+Naast een inleiding en een globale planning bevat een functioneel ontwerp vooral een beschrijving van wat een klant gaat krijgen. Een van de manieren om dat te beschrijven is door middel van User Stories. Hier in zegt men wat wie waarom wil.
+
+User stories volgen een vast formaat:
+
+Als <rol> wil ik <wat> zodat ik <meerwaarde>
+
+Bijvoorbeeld:
+Als **bezoeker** wil ik **het adres van het bedrijf kunnen zien** zodat ik **weet hoe ik bij het bedrijf kan komen**.
+
+Of:
+
+Als **eigenaar** wil ik **een overzicht hebben van de voorraad** zodat ik **kan zien welke producten bijna op zijn**.
+
+Maar niet:
+
+Als **beheerder** wil ik **een link hebben naar een beheerpagina** zodat ik **in kan loggen**.
+
+Want dan ben je aan het beschrijven hoe je iets wilt gaan doen.
 
 ## Op te leveren producten
 De producten die je op moet leveren zijn:
